@@ -1,0 +1,15 @@
+{"name":"569","password":"569"}
+{"name":"sergey","password":"123"}
+{"name":"Sergiy","password":"1111"}
+{"name":"Андрій","password":"555555"}
+{"name":"Слава Україні","password":"Героям Слава"}
+{"name":"Sergiy","password":"7777"}
+{"name":"качечка","password":"звірятко"}
+{"name":"yarik","password":"pell"}
+{"name":"Hello","password":"World"}
+{"name":"today","password":"again"}
+{"name":"Save files are temporary","password":"memories_last_forever"}
+{"name":"=(-_-)=","password":""}
+{"name":"мама","password":"я в інетернеті"}
+{"name":"(-)(-)","password":"("}
+{"name":"","password":""}
